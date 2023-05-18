@@ -1,0 +1,26 @@
+{
+    "category1": [
+        {
+            "name": "command1",
+            "description": "This is command 1",
+            "usage": "/command1"
+        },
+        {
+            "name": "command2",
+            "description": "This is command 2",
+            "usage": "/command2"
+        }
+    ],
+    "category2": [
+        {
+            "name": "command3",
+            "description": "This is command 3",
+            "usage": "/command3"
+        },
+        {
+            "name": "command4",
+            "description": "This is command 4",
+            "usage": "/command4"
+        }
+    ]
+}

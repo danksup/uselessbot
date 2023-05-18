@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "name": "Plumber",
+      "salary": "1000",
+      "lvl_req": "1",
+      "desc": "tba"
+    },
+    {
+      "id": "2",
+      "name": "Hairdresser",
+      "salary": "1500",
+      "lvl_req": "3",
+      "desc": "tba"
+    },
+    {
+      "id": "3",
+      "name": "Gardener",
+      "salary": "2000",
+      "lvl_req": "3",
+      "desc": "tba"
+    },
+    {
+      "id": "4",
+      "name": "Photographer",
+      "salary": "3000",
+      "lvl_req": "5",
+      "desc": "tba"
+    },
+    {
+      "id": "5",
+      "name": "teacher",
+      "salary": "5000",
+      "lvl_req": "10",
+      "desc": "tba"
+    },
+    {
+      "id": "6",
+      "name": "Chef",
+      "salary": "5500",
+      "lvl_req": "10",
+      "desc": "tba"
+    },
+    {
+      "id": "7",
+      "name": "Mechanic",
+      "salary": "6000",
+      "lvl_req": "10",
+      "desc": "tba"
+    },
+    {
+      "id": "8",
+      "name": "Nurse",
+      "salary": "7000",
+      "lvl_req": "15",
+      "desc": "tba"
+    },
+    {
+      "id": "9",
+      "name": "Firefighter",
+      "salary": "8000",
+      "lvl_req": "15",
+      "desc": "tba"
+    },
+    {
+      "id": "10",
+      "name": "Doctor",
+      "salary": "10000",
+      "lvl_req": "20",
+      "desc": "tba"
+    },
+    {
+      "id": "11",
+      "name": "Programmer",
+      "salary": "15000",
+      "lvl_req": "25",
+      "desc": "tba"
+    },
+    {
+      "id": "12",
+      "name": "Astronaut",
+      "salary": "20000",
+      "lvl_req": "30",
+      "desc": "tba"
+    },
+    {
+      "id": "100",
+      "name": "???",
+      "salary": "200000000",
+      "lvl_req": "5000",
+      "desc": "?????????????????????/"
+    }
+  ]

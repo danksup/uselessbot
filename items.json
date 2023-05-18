@@ -1,0 +1,192 @@
+[{
+  "id": "0",
+  "name": "test",
+  "price": "0",
+  "itemtype": "test",
+  "buyable": "no",
+  "desc": "hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "1",
+  "name": "apple",
+  "price": "50",
+  "itemtype": "consumable",
+  "buyable": "yes",
+  "desc": "An apple is a round fruit that grows on a tree. It can be red, green, or yellow. When you eat an apple, you bite into its crispy flesh and taste its sweet juice. So, how basic did you want it to be?",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "2",
+  "name": "chocolate",
+  "price": "75",
+  "itemtype": "consumable",
+  "buyable": "yes",
+  "desc": "The sweet, irresistible treat that's practically a universal language. Whether it's milk, dark, or white, chocolate has the power to turn any bad day into a good one. Plus, who needs a therapist when you can have a bar of chocolate?",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "3",
+  "name": "gun",
+  "price": "10000",
+  "itemtype": "weapon",
+  "buyable": "yes",
+  "desc": "A gun is like a remote control for bad guys. You point it at them and press a button, and they do what you want... like drop their wallets, or run away, or sometimes just fall down and take a nap. But if you're not careful with it, the gun might end up controlling you instead. So keep it locked up tight, and use it wisely!",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "4",
+  "name": "ammo",
+  "price": "500",
+  "itemtype": "complementary",
+  "buyable": "yes",
+  "desc": " The tiny but powerful friends of your gun. They may be small, but don't underestimate their ability to pack a punch. With the right ammo, you can take down even the toughest of targets. So stock up, aim true, and let your ammo do the talking.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "5",
+  "name": "phone",
+  "price": "5000",
+  "itemtype": "consumable",
+  "buyable": "yes",
+  "desc": "A phone is like a tiny magic box that can connect you to the entire world, except when the battery dies and you're suddenly left alone with your own thoughts.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "6",
+  "name": "laptop",
+  "price": "5000",
+  "itemtype": "consumable",
+  "buyable": "yes",
+  "desc": "Your portable portal to the digital realm, complete with the power to procrastinate like a pro",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "7",
+  "name": "bucket",
+  "price": "150",
+  "itemtype": "complementary",
+  "buyable": "yes",
+  "desc": "A bucket is a versatile and handy tool that can hold pretty much anything. Need to carry water? Bucket. Want to build a sandcastle? Bucket. Feeling the urge to put something over someone's head? Bucket. It's basically a portable container that's always down for whatever. Just don't forget to take it off your head before trying to walk through a door.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "8",
+  "name": "bottle",
+  "price": "50",
+  "itemtype": "complementary",
+  "buyable": "yes",
+  "desc": "Ah, the trusty bottle. The container of choice for liquids since ancient times. It's like a glass, but shorter and fatter. Perfect for holding water, juice, or even something stronger if you're feeling adventurous. With its screw-on cap, you can take it with you wherever you go without fear of spills. Just be careful not to confuse it with your shampoo bottle in the shower – unless you're into that sort of thing.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "9",
+  "name": "lantern",
+  "price": "350",
+  "itemtype": "collectable",
+  "buyable": "yes",
+  "desc": "A lantern, the trusty companion for any adventure. With its soft, warm glow, it keeps the darkness at bay and guides the way through the night. Plus, it's the perfect accessory for any spooky story-telling session.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "10",
+  "name": "match",
+  "price": "100",
+  "itemtype": "complementary",
+  "buyable": "yes",
+  "desc": "A tiny stick that's always ready to light up your world (or your candle, at least). Handle with care, unless you want to be the next human torch!",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "11",
+  "name": "pen",
+  "price": "100",
+  "itemtype": "complementary",
+  "buyable": "yes",
+  "desc": "A magical wand that turns thoughts into ink. A pen is mightier than a sword, unless you're fighting a dragon. In that case, you might want to stick with the sword.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "12",
+  "name": "paper",
+  "price": "20",
+  "itemtype": "consumable",
+  "buyable": "yes",
+  "desc": "A thin and flat material that can be written, printed, or drawn on. It's like a canvas, but for words and ideas. It's also the material that never goes out of style, no matter how many apps or devices we use. With paper, you can jot down your thoughts, create your masterpiece, or even fold a crane. The possibilities are endless!",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "13",
+  "name": "medal",
+  "price": "100000000",
+  "itemtype": "collectable",
+  "buyable": "yes",
+  "desc": "A shiny piece of metal that says, \"I did something cool!\" Whether you're a hero, a champion, or just a really good participant, a medal is a great way to show off your accomplishments. Wear it with pride or hang it on your wall. Just don't forget to tell everyone you meet that you're a medalist!",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "14",
+  "name": "common fish",
+  "price": "100",
+  "itemtype": "collectable",
+  "buyable": "no",
+  "desc": "A slimy and scaly creature that loves to swim in the water. It's the most basic fish you can catch, and it won't earn you any bragging rights, but at least it's better than catching nothing!",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "15",
+  "name": "uncommon fish",
+  "price": "350",
+  "itemtype": "collectable",
+  "buyable": "no",
+  "desc": "A slightly rarer fish that's sure to make you feel like you hit the jackpot in the fishing world. Just don't get too excited, it's still just a fish.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "16",
+  "name": "rare fish",
+  "price": "900",
+  "itemtype": "collectable",
+  "buyable": "no",
+  "desc": "These rare fish are like the unicorns of the sea, so rare that it feels like you're more likely to win the lottery than catch one. But if you're lucky enough to reel one in, it's like finding a treasure chest at the bottom of the ocean. Just don't forget to take a selfie with your new finned friend before you let it go.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "17",
+  "name": "super rare fish",
+  "price": "2500",
+  "itemtype": "collectable",
+  "buyable": "no",
+  "desc": "This fish is so rare, you'd have better luck finding a unicorn in your backyard. But if you're lucky enough to reel one in, you'll be the envy of all your fisherman friends. Just be sure to take a picture, because nobody will believe you otherwise.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "18",
+  "name": "legendary fish",
+  "price": "5000",
+  "itemtype": "collectable",
+  "buyable": "no",
+  "desc": "Ah, the elusive legendary fish. Said to be the catch of a lifetime, these aquatic creatures are the stuff of legends. They are the rarest and most prized catches that any angler could hope to reel in. Some say they possess magical powers, while others believe they hold the secrets of the deep. But one thing is for sure, if you manage to catch one of these bad boys, you'll be the envy of every fisherman in the land. Happy fishing!",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "19",
+  "name": "trash",
+  "price": "10",
+  "itemtype": "collectable",
+  "buyable": "no",
+  "desc": "Ahh, trash - the unwanted, unloved and often neglected things in life. But let's face it, sometimes it's the most interesting thing around. Who knows what kind of treasures you'll find in there? Or maybe just some old gum stuck to the bottom. Either way, it's always an adventure.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+},
+{
+  "id": "20",
+  "name": "energy drink",
+  "price": "350",
+  "itemtype": "powerup",
+  "buyable": "yes",
+  "desc": "A liquid elixir that promises to give you wings and help you conquer the day, one sip at a time. Whether you're cramming for an exam, working the night shift, or just need a pick-me-up, this drink will give you the boost you need to keep going. Just don't forget to read the label and consume in moderation, unless you want to feel like a hummingbird on steroids.\n\nPowerup: Gets additional 100 exp for an hour.",
+  "iconurl": "https://live.staticflickr.com/65535/52853445394_4aebbd2f5f_m.jpg"
+}
+
+
+]
