@@ -1,10 +1,11 @@
 # HELLO!
 
-This code was made by Agung Rama Pramana Putra, or if that's too long, you can just call me by rama. Anyway, i don't recommend to use any part of any code in this repository because it's so buggy and unstable. And, yes i know all of the codes are so messy but it doesn't really bother me. Anyway, i dont really know what to add in this markdown file, so enjoy this brief description of the one of the most popular kids' shows, Peppa Pig!
+This code was made by Agung Rama Pramana Putra, or if that's too long, you can just call me by rama. Anyway, i don't recommend to use any part of the code in this repository because it's so buggy and unstable. And, yes i know all of the codes are so messy but it doesn't really bother me. Anyway, i dont really know what to add in this markdown file, so enjoy this brief description of the one of the most popular kids' shows, Peppa Pig!
 
 # Peppa Pig
 
-Peppa Pig is a popular animated children's television series that revolves around the adventures of Peppa, a cheeky little piggy who loves jumping in muddy puddles and having fun with her family and friends. Created by Neville Astley and Mark Baker, the show first aired in 2004 and has since gained a wide audience of children and adults alike.
+Peppa Pig, one of the most popular animated kids' shows, brings viewers on exciting adventures with its protagonist, Peppa. This little piggy has a penchant for splashing in muddy puddles and enjoying time with her family and friends. Created by Neville Astley and Mark Baker, the show made its debut in 2004 and has captivated a vast audience of both children and adults. Join Peppa in her whimsical world filled with joy, laughter, and unforgettable experiences!
+
 
 ## Characters
 
