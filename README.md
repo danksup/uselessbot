@@ -1,6 +1,6 @@
 # HELLO!
 
-This code was made by Agung Rama Pramana Putra, or if that's too long, you can just call me by rama. Anyway, i don't recommend to use any part of any code in this repository because it's so buggy and unstable. And, yes i know all of the codes are so messy but it doesn't really bother me. Anyway, i dont really know what to type in this markdown file, so enjoy this brief description of the one of the most popular kids' shows, Peppa Pig!
+This code was made by Agung Rama Pramana Putra, or if that's too long, you can just call me by rama. Anyway, i don't recommend to use any part of any code in this repository because it's so buggy and unstable. And, yes i know all of the codes are so messy but it doesn't really bother me. Anyway, i dont really know what to add in this markdown file, so enjoy this brief description of the one of the most popular kids' shows, Peppa Pig!
 
 # Peppa Pig
 
