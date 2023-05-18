@@ -1,8 +1,8 @@
 {
-    "token": "NzI3ODQyMzQ5MDk0NTM1MjQ4.XvxuAg.fVnyCrfGrmSlaAJLtlTJK2t2O4s",
+    "token": "silly",
     "default_prefix": "*",
-    "clientId": ["727842349094535248"],
-	"guildId": ["531064852307902477"],
-    "openai_token":"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",
-    "youtube_token": "AIzaSyAuHQTvU5yx6uNWX2fWoSDUu0lKX1hRqyM"
+    "clientId": ["silly"],
+	"guildId": ["silly"],
+    "openai_token":"silly",
+    "youtube_token": "silly"
 }
