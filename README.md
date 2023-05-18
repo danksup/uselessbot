@@ -1,6 +1,6 @@
 # HELLO!
 
-jadi ini code dibuat oleh agung rama pramana putra. di upload di github pada 18/05/2023. nah kodenya ini gak stabil dan beranatakan. jadi, aku saranin untuk jangan dipakai. karena aku g tau harus nulis apa jadi enjoy this brief description of the one of the most popular kids' show, Peppa Pig!
+jadi ini code dibuat oleh agung rama pramana putra. di upload di github pada 18/05/2023. nah kodenya ini gak stabil dan beranatakan. jadi, aku saranin untuk jangan dipakai. karena aku g tau harus nulis apa jadi enjoy this brief description of the one of the most popular kids' shows, Peppa Pig!
 
 # Peppa Pig
 
